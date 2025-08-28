@@ -10,3 +10,5 @@ print("O angulo de {} tem o SENO de {:.2f}".format(angulo, seno))  # exibe o res
 print("O angulo de {} tem o COSSENO de {:.2f}".format(angulo, cosseno))  # exibe o resultado do cosseno
 print("O angulo de {} tem a TANGENTE de {:.2f}".format(angulo, tangente))  # exibe o resultado da tangente
 # radians() -> converte graus em radianos45
+
+print('teste de git')
