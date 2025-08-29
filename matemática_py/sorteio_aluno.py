@@ -7,3 +7,4 @@ alunos = ['Ana', 'Bruno', 'Carlos', 'Diana']  # nomes dos alunos
 escolhido = random.choice(alunos)  # sorteia um aluno
 
 print(f'O aluno sorteado para apagar o quadro foi: {escolhido}')
+
